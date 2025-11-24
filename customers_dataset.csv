@@ -1,0 +1,31 @@
+CustomerID,Gender,Age,Annual_Income_(k$),Spending_Score_(1-100),City,Membership_Level
+1,Male,42,86,19,Houston,Platinum
+2,Male,24,131,34,Phoenix,Silver
+3,Female,40,108,18,Houston,Platinum
+4,Male,40,56,32,Phoenix,Gold
+5,Male,56,109,96,Chicago,Gold
+6,Male,34,105,72,Phoenix,Silver
+7,Male,20,68,69,New York,Silver
+8,Male,64,83,34,New York,Gold
+9,Female,47,33,96,Phoenix,Gold
+10,Male,52,58,75,Chicago,Silver
+11,Male,25,77,55,Chicago,Silver
+12,Male,42,56,75,New York,Silver
+13,Male,23,133,52,Chicago,Platinum
+14,Male,53,112,47,Houston,Silver
+15,Male,36,84,29,Los Angeles,Silver
+16,Male,58,71,18,Houston,Platinum
+17,Female,57,98,66,New York,Gold
+18,Male,41,29,64,Chicago,Silver
+19,Female,54,73,12,Phoenix,Platinum
+20,Female,30,23,97,Los Angeles,Silver
+21,Male,63,95,7,Phoenix,Silver
+22,Male,22,117,15,New York,Platinum
+23,Female,20,83,20,Chicago,Gold
+24,Female,60,31,81,Phoenix,Platinum
+25,Female,32,69,21,Phoenix,Silver
+26,Male,36,95,88,Los Angeles,Gold
+27,Male,23,69,55,Los Angeles,Platinum
+28,Female,32,142,77,Chicago,Platinum
+29,Male,24,116,9,Los Angeles,Gold
+30,Male,42,132,50,Phoenix,Silver
